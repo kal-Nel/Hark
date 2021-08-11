@@ -1,0 +1,20 @@
+BUCKET LIT
+
+import numpy as np
+from matplotlib import pyplot as plt
+
+x = np.arange(1,999)
+x
+
+y1=2*x
+y1
+
+y2=*x
+y2
+
+plt.plot(x,y1)
+plt.grid(True)
+
+plt.plot(x,y2)
+plt.grid(True)
+plt.show
